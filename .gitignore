@@ -1,0 +1,5 @@
+ToxAnalysis/
+*.json()
+*.env
+*.ipynb_checkpoints/
+.env
