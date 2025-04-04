@@ -1,6 +1,7 @@
 ToxAnalysis/
-*.json()
+assay_desc_2256.json
 *.env
 *.ipynb_checkpoints/
 .env
 ToxAnalysis-Copy1.ipynb
+tox_df.csv
