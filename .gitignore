@@ -5,3 +5,4 @@ assay_desc_2256.json
 .env
 ToxAnalysis-Copy1.ipynb
 tox_df.csv
+.gitignore
